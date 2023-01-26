@@ -1,9 +1,9 @@
 ## Spring Boot CRUD application
 
-<img height="250" src="C:\Users\Tanel Märjama\WebstormProjects\spring-test-app\Index.png" width="900"/>
+![](Index.png)
 
 
-<img height="250" src="C:\Users\Tanel Märjama\WebstormProjects\spring-test-app\CreateNew.png" width="900"/>
+![](CreateNew.png)
 
 A simple CRUD application to get more familiar with using Spring Boot for development.
 
